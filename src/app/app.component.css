@@ -1,0 +1,55 @@
+
+
+.state-view{
+    color:#228cc4;
+height: 50px;
+background-color: #d3e8f3;
+border: 1px solid #009ad6
+}
+
+.state-card{
+    color: #1F4280;
+    background-color:  #d3e8f3;
+    border: 1px solid  #1F4280;
+    text-align: center;
+    height: 50px;
+    margin: 10px 0px;
+}
+
+.show-scroll{
+    position: relative;
+    height: 28%;
+    overflow-y: scroll;
+}
+
+.population-title{
+    color: #000;
+    font-size: 30px;
+}
+
+.bg-data{
+    background-color: #00aeaa;
+    color:#fff;
+}
+
+.bg-data-details{
+    background-color: #228bc4;
+}
+
+table > thead > tr{
+    background-color: #ADD8E6 !important;
+    border: 4px solid #fff;
+}
+table > tbody > tr{
+    background-color: #d3e8f3 !important;
+    border: 4px solid #fff;
+}
+
+
+.table>:not(caption)>*>* {
+   
+    background-color: unset !important;
+   
+
+}
+
